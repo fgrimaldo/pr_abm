@@ -22,14 +22,17 @@
               <styles xmi:type="notation:FilteringStyle" xmi:id="_pXIXE5DKEeaKddQ-EWltFw"/>
             </children>
             <styles xmi:type="notation:ShapeStyle" xmi:id="_pXHwAZDKEeaKddQ-EWltFw" fontName="Sans Serif" bold="true"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pXHwApDKEeaKddQ-EWltFw" x="406" y="214" width="120" height="100"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pXHwApDKEeaKddQ-EWltFw" x="195" y="100" width="120" height="100"/>
           </children>
           <styles xmi:type="notation:DiagramStyle" xmi:id="_oCpQYpDKEeaKddQ-EWltFw"/>
         </data>
       </ownedAnnotationEntries>
-      <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_pW5GgJDKEeaKddQ-EWltFw" name="Class1" tooltipText="PR_ABM::Class1" width="12" height="10">
+      <ownedDiagramElements xmi:type="diagram:DNodeList" xmi:id="_pW5GgJDKEeaKddQ-EWltFw" name="Scientist" tooltipText="PR_ABM::Scientist" width="12" height="10">
         <target xmi:type="uml:Class" href="model.uml#_pW34YJDKEeaKddQ-EWltFw"/>
         <semanticElements xmi:type="uml:Class" href="model.uml#_pW34YJDKEeaKddQ-EWltFw"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
         <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_pW67sJDKEeaKddQ-EWltFw" labelSize="9" borderSize="1" borderSizeComputationExpression="1" borderColor="39,76,114" backgroundStyle="Liquid" foregroundColor="232,239,247">
           <labelFormat>bold</labelFormat>
           <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.obeonetwork.dsl.uml2.design/description/uml2.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Class%20Diagram']/@defaultLayer/@containerMappings[name='CD_Class']/@style"/>
